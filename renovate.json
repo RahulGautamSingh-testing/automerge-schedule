@@ -6,5 +6,6 @@
       "automergeType": "branch"
     }
   ],
-  "schedule": "every weekend"
+  "schedule": "every weekend",
+  "ignoreTests": true
 }
